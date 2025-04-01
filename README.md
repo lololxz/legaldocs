@@ -1,17 +1,17 @@
-# LegalDocs - Legal Document Management System
+# LegalDocs - Sistema de Gerenciamento de Documentos Legais
 
-LegalDocs is a comprehensive SaaS platform designed for law firms and legal professionals to manage documents, deadlines, and client relationships efficiently.
+LegalDocs é uma plataforma SaaS abrangente projetada para escritórios de advocacia e profissionais jurídicos gerenciarem documentos, prazos e relacionamentos com clientes de forma eficiente.
 
-## 🚀 Features
+## 🚀 Recursos
 
-- 📄 Document Management
-- ⏰ Deadline Tracking
-- 👥 Client Management
-- 📊 Analytics Dashboard
-- 🔐 Secure Document Storage
-- 📱 Responsive Design
+- 📄 Gerenciamento de Documentos
+- ⏰ Acompanhamento de Prazos
+- 👥 Gerenciamento de Clientes
+- 📊 Painel de Análises
+- 🔐 Armazenamento Seguro de Documentos
+- 📱 Design Responsivo
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 - Next.js 14
 - TypeScript
@@ -21,10 +21,10 @@ LegalDocs is a comprehensive SaaS platform designed for law firms and legal prof
 - React Icons
 - Framer Motion
 
-## 🔑 Demo Access
+## 🔑 Acesso à Demonstração
 
-You can access the demo version with these credentials:
+Você pode acessar a versão de demonstração com estas credenciais:
 
 ```txt
-Email: demo@legaldocs.com
-Password: demo123
+Email: drmarreco@juiz.com
+Senha: drmarreco
